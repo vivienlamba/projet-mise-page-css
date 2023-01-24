@@ -1,0 +1,194 @@
+.box1{
+    width: 300px;
+    height: 345px;
+    background-color: aqua;
+    padding: 30px;
+    border-radius:20px;
+}
+.box2{
+    width: 300px;
+    height: 345px;
+    background-color: rgb(18, 60, 60);
+    padding: 30px;
+    border-radius: 20px;
+    
+
+}
+.box3{
+    width: 300px;
+    height: 345px;
+    background-color: rgb(105, 116, 116);
+    padding: 30px;
+    border-radius: 20px;
+}
+.box{
+    display:flex;
+    justify-content: space-around;
+}
+.barre{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav{
+    display:flex;
+    justify-content: space-between;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.menu{
+    display:flex;
+    justify-content: space-around;
+    width: 400px;
+}
+.box > div > h1{
+    color: aliceblue;
+}
+.barre > ul >li{
+    list-style: none;
+    color: #ABABAB;
+
+}
+.barre > ul >li:hover{
+    color: #00B39B;
+    cursor: pointer;
+}
+body{
+    font-family: 'roboto'; 
+}
+.menu>li{
+    color: rgb(81, 102, 102);
+    list-style: none;
+    
+}
+.parag{
+  display: flex;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.parag > p{
+    margin: 50px;
+
+}
+.titre
+{
+    color: #00B39B;
+    text-decoration:underline ;
+    font-size: 29;
+    text-align: center;
+}
+.box> div > h2{
+    color: aliceblue;
+}
+.box1> div > h3{
+    color: aliceblue;
+}
+.box> div > h3{
+    color: aliceblue;
+}
+.BX4{
+    width: 250px;
+    height: 300px;
+    background-color: #00B39B ;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.BX5{
+    width: 250px;
+    height: 300;
+    background-color: blue;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.BX6{
+    width: 250px;
+    height: 300px;
+    background-color: aquamarine;
+    margin-right: 100px;
+    margin-left: 100px;
+
+}
+.BX7{
+    width: 250px;
+    height: 300px;
+    background-color: aqua;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.section2{
+    background-color: #2a837788;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+    
+}
+.BX1{
+    width: 200px;
+    height: 200px;
+    background-color: aliceblue;
+    
+    
+}
+ .part2{
+    display: grid;
+    width: 540px;
+    grid-template-columns: 20px 280px ;
+    justify-content: space-between;
+         
+    
+ }
+ .paragr{
+    margin: 50px;
+ }
+ .BX1{
+    margin-bottom: 50px;
+    
+ }
+ 
+    
+    
+    
+
+
+ 
+    
+     
+      
+ 
+ 
+    
+ 
+ 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+    
+        
+        
+        
+
+        
+        
+        
+        
